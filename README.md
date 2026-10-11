@@ -1,5 +1,4 @@
-![](assets/banner.png)
-======================
+[![banner.png](https://i.postimg.cc/gcfZp7KD/banner.png)](https://postimg.cc/NLkM7pS9)======================
 # Hey, c'est Namekore !
 
 Appelez moi Namekore, étudiante en informatique et en électronique passionnée par la programmation web et d'application mobile, le brasage CMS et le réseaux. Tu n'en verras jamais 2 comme moi car il n'existe que 1 0 types de personnes, ceux qui comprennent le binaire et ceux qui ne le comprennent pas !
