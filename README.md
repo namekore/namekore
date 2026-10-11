@@ -1,4 +1,5 @@
-[![banner.png](https://i.postimg.cc/gcfZp7KD/banner.png)](https://postimg.cc/NLkM7pS9)======================
+![](https://postimg.cc/NLkM7pS9)
+======================
 # Hey, c'est Namekore !
 
 Appelez moi Namekore, étudiante en informatique et en électronique passionnée par la programmation web et d'application mobile, le brasage CMS et le réseaux. Tu n'en verras jamais 2 comme moi car il n'existe que 1 0 types de personnes, ceux qui comprennent le binaire et ceux qui ne le comprennent pas !
@@ -31,7 +32,7 @@ Appelez moi Namekore, étudiante en informatique et en électronique passionnée
 ![Static Badge](https://img.shields.io/badge/PgAdmin4-grey)
 
 ## 📁 ・ Mon portfolio
-![Example](https://gaellenamekore.netlify.app/)
+![Gaelle's portfolio(https://gaellenamekore.netlify.app/)
 
 
 Si tu cherches à concrétiser, commencer, retrouver de l'inspiration, finir un projet ou apprendre la programmation je suis la personne qu'il te faut  ! ( enfin dans la limite du possible quoi )
