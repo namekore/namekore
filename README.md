@@ -32,8 +32,4 @@ Appelez moi Namekore, étudiante en informatique et en électronique passionnée
 ![Static Badge](https://img.shields.io/badge/PgAdmin4-grey)
 
 ## 📁 ・ Mon portfolio
-![Gaelle's portfolio](https://gaellenamekore.netlify.app/)
-Visiter [Gaelle's portfolio](https://gaellenamekore.netlify.app/) pour en apprendre plus sur mon parcours et mes ambitions.
-
-
-Si tu cherches à concrétiser, commencer, retrouver de l'inspiration, finir un projet ou apprendre la programmation je suis la personne qu'il te faut  ! ( enfin dans la limite du possible quoi )
+Visitez [Gaelle's portfolio](https://gaellenamekore.netlify.app/) pour en apprendre plus sur mon parcours et mes ambitions.
